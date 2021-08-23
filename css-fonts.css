@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Signika';
+    src: url(css-font-Signika-Regular.ttf);
+}
+@font-face {
+    font-family: 'Catamaran';
+    src: url(css-font-Catamaran-Bold.ttf);
+}
+@font-face {
+    font-family: 'SourceRegular';
+    src: url(css-font-SourceSansPro-Regular.ttf);
+}
+@font-face {
+    font-family: 'SourceSemiBold';
+    src: url(css-font-SourceSansPro-SemiBold.ttf);
+}
